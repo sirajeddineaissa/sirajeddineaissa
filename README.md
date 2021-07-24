@@ -36,5 +36,7 @@ I am an aspiring student developer who is interested in a myriad of fields such 
 <br>
 
 <div align="center">
+  
 ### My goal for now is to start contributing to open-source projects.
+  
 </div>
