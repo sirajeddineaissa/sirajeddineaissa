@@ -22,13 +22,11 @@ I am an aspiring student developer who is interested in a myriad of fields such 
   <img src="https://img.icons8.com/material-rounded/48/000000/console.png"/>
 </div>
 
-<br>
 
 ### Stats:
 
 ![Siraje's Stats](https://github-readme-stats.vercel.app/api?username=Dismalness&theme=monokai)
 
-<br>
 
 ### Contact Me : 
 
@@ -42,7 +40,6 @@ I am an aspiring student developer who is interested in a myriad of fields such 
   <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
 </a>
 
-<br>
 
 <div align="center">
   
