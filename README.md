@@ -15,9 +15,15 @@
 <br/>
 <br/>
 
+### About Me:
+
 I am an aspiring student developer who is interested in a myriad of fields such as AI / Machine Learning / Deep Learning / Full-stack Web Development / Cybersecurity / IoT / Embedded Systems. I also enjoy doing photo and video editing.
 
-**Languages and Tools:**
+### Stats:
+
+![Siraje's Stats](https://github-readme-stats.vercel.app/api?username=Dismalness&theme=monokai)
+
+### Languages and Tools:
 
 <div style="display: flex">
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
