@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dismalness&label=Views&color=green&style=plastic" alt="iampawan" /> </p>
 
-<br>
-
 ### About Me:
 
 I am an aspiring student developer who is interested in a myriad of fields such as AI / Machine Learning / Deep Learning / Full-stack Web Development / Cybersecurity / IoT / Embedded Systems. I also enjoy doing photo and video editing.
@@ -32,7 +30,7 @@ I am an aspiring student developer who is interested in a myriad of fields such 
 
 <br>
 
-###Contact Me : 
+### Contact Me : 
 
 <a href="https://linkedin.com/in/sirajeddineaissa">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
