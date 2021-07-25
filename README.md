@@ -6,6 +6,12 @@
 
 I am an aspiring student developer who is interested in a myriad of fields such as AI / Machine Learning / Deep Learning / Full-stack Web Development / Cybersecurity / IoT / Embedded Systems. I also enjoy doing photo and video editing.
 
+✔ I am 20 years old 😊 <br>
+✔ I am currently working on a type-racing app called **WipeLacer** using **React** and **Firebase**<br>
+✔ I am currently enrolled in the **AWS Machine Learning Scholarship program** provided by **Udacity** <br>
+✔ I am also playing with things in the **Internet of Things** field.<br>
+✔ I am also eager to start contributing to **open-source projects**<br>
+
 ### Languages and Tools:
 
 <div style="display: flex">
@@ -27,6 +33,7 @@ I am an aspiring student developer who is interested in a myriad of fields such 
 
 ![Siraje's Stats](https://github-readme-stats.vercel.app/api?username=Dismalness&theme=monokai)
 
+![Siraje's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Dismalness&locale=en&show_icons=true&theme=monokai)
 
 ### Contact Me : 
 
@@ -41,8 +48,4 @@ I am an aspiring student developer who is interested in a myriad of fields such 
 </a>
 
 
-<div align="center">
-  
-### My goal for now is to start contributing to open-source projects.
-  
-</div>
+
