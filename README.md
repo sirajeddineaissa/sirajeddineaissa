@@ -1,17 +1,13 @@
-## Hi, I'm [Sirajeddine Aissa](https://sirajeddineaissa.herokuapp.com) 👋
+## Hi, I'm [Sirajeddine Aissa](https://portfolio-jg8r37bbp-sirajeddine.vercel.app) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dismalness&label=Views&color=green&style=plastic" alt="iampawan" /> </p>
 
 ### About Me:
 
-I am an aspiring student developer who is interested in a myriad of fields such as AI / Machine Learning / Deep Learning / Full-stack Web Development / Cybersecurity / IoT / Embedded Systems. I also enjoy doing photo and video editing.
+I am a 20-year-old aspiring student developer who's interested in a myriad of fields such as Data Science, Machine Learning & Deep Learning / Full-stack Development / Cybersecurity / Internet of Things & Embedded Systems. I do Video Editing too.
 
-✔ I am 20 years old 😊 <br>
-✔ I am currently working on a type-racing app called **WipeLacer** using **React** and **Firebase**<br>
-✔ I am currently enrolled in the **AWS Machine Learning Scholarship program** provided by **Udacity** <br>
-✔ I am also playing with things in the **Internet of Things** field.<br>
-✔ I am also eager to start contributing to **open-source projects**<br>
-
+✔ 👨🏽‍💻 I am eager to start contributing to **open-source projects**<br>
+✔ 💬 Ask me about anything, I am happy to help;
 ### Languages and Tools:
 
 <div style="display: flex">
@@ -19,11 +15,13 @@ I am an aspiring student developer who is interested in a myriad of fields such 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>  
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/material-rounded/48/000000/console.png"/>
 </div>
@@ -42,6 +40,9 @@ I am an aspiring student developer who is interested in a myriad of fields such 
 </a>
 <a href="https://discord.com/users/279584307180470272">
   <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
+</a>
+<a href="https://stackoverflow.com/users/13063663/dismalness?tab=profile">
+  <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"/>
 </a>
 <a href="https://www.instagram.com/sirajeddine.aissa">
   <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
