@@ -15,13 +15,11 @@ I am a 20-year-old aspiring student developer who's interested in a myriad of fi
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>  
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/>  
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/material-rounded/48/000000/console.png"/>
 </div>
@@ -38,14 +36,11 @@ I am a 20-year-old aspiring student developer who's interested in a myriad of fi
 <a href="https://linkedin.com/in/sirajeddineaissa">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a href="https://discord.com/users/279584307180470272">
-  <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
-</a>
 <a href="https://stackoverflow.com/users/13063663/dismalness?tab=profile">
   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"/>
 </a>
-<a href="https://www.instagram.com/sirajeddine.aissa">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+<a href="mailto:domainexpansion@pm.me">
+  <img src="https://img.icons8.com/fluency/48/000000/mail.png"/>
 </a>
 
 
