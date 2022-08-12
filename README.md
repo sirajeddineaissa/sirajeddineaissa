@@ -1,12 +1,12 @@
 ### Hey 👋, I'm [Siraje](https://sirajeddineaissa.vercel.app) !
 
-<a href="https://www.instagram.com/sirajeddineaissa">
+<a href="https://www.instagram.com/sirajeddine.aissa" target="_blank" rel="noopener noreferrer">
   <img height="35" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Siraje's Instagram"/>
 </a>
-<a href="https://www.linkedin.com/in/sirajeddineaissa">
+<a href="https://www.linkedin.com/in/sirajeddineaissa" target="_blank" rel="noopener noreferrer">
     <img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Siraje's LinkedIn"/>
 </a>
-<a href="https://t.me/sirajeddineaissa">
+<a href="https://t.me/sirajeddineaissa" target="_blank" rel="noopener noreferrer">
     <img height="35" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Siraje's Telegram"/>
 </a>
 
