@@ -15,6 +15,7 @@
 
 Hello there, I'm **Sirajeddine Aissa**, a 21-year-old **Engineering student** at the **National Institute of Applied Science and Technology, Tunisia**. I'm a **Full-stack Student Developer** willing to further expand my technical skills and discover alternative CS fields like **Data Engineering**, which does utterly pique my interest. 
 
+<img align="right" alt="gif" height="250" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Summary :**
 
