@@ -9,6 +9,10 @@
 <a href="https://t.me/sirajeddineaissa" target="_blank" rel="noopener noreferrer">
     <img height="35" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Siraje's Telegram"/>
 </a>
+<a href="mailto:sirajeddineaissa@protonmail.com" target="_blank" rel="noopener noreferrer">
+    <img height="35" src="https://img.icons8.com/fluency/48/000000/mail.png" alt="PM Siraje"/>
+</a>
+
 
 <br />
 <br />
@@ -21,9 +25,7 @@ Hello there, I'm **Sirajeddine Aissa**, a 21-year-old **Engineering student** at
 - 🤔 I'm interested in Software and Data Engineering
 - 👨🏽‍💻 I'm eager to contribute to open-source projects
 - 💼 I’m pursuing a Bachelor's degree
-- 📫 You can email me via sirajeddineaissa@pm.me
 - 📝 Check out my [Resume](https://drive.google.com/file/d/1GOIMIo2h9mRFJCUJ_WbOxBNrbuayQwxR/view)
-
 
 **Languages and Tools :**  
 
