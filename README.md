@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Siraje](https://sirajeddineaissa.vercel.app) !
+### Hey 👋, I'm [Siraje](https://sirajeddineaissa.live) !
 
 <a href="https://www.instagram.com/sirajeddine.aissa" target="_blank" rel="noopener noreferrer">
   <img height="35" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Siraje's Instagram"/>
@@ -23,6 +23,7 @@ Hello there, I'm **Sirajeddine Aissa**, a 21-year-old **Engineering student** at
 **Summary :**
 
 - 🤔 I'm interested in Software and Data Engineering
+- ☁️ I'm currently discovering AWS services in depth
 - 👨🏽‍💻 I'm eager to contribute to open-source projects
 - 💼 I’m pursuing a Bachelor's degree
 - 📝 Check out my [Resume](https://drive.google.com/file/d/1GOIMIo2h9mRFJCUJ_WbOxBNrbuayQwxR/view)
