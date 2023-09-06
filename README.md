@@ -31,15 +31,6 @@ introduction:
         - English
         - French
         - Arabic
-        os: Kubuntu
 ```
 <div align="center">
-  
-**Languages and Tools :**  
-
-<img height="25" src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,next,react,nodejs,mysql,firebase,docker,aws,git,bash,linux">
-  
-**Stats :**  
-
-<img src="https://github-readme-stats.vercel.app/api?username=sirajeddineaissa&count_private=true&show_icons=true&theme=graywhite" alt="Siraje's GitHub Stats" />
 </div>
