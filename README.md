@@ -8,7 +8,7 @@
 <a href="https://t.me/sirajeddineaissa" target="_blank" rel="noopener noreferrer">
     <img height="35" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Siraje's Telegram"/>
 </a>
-<a href="mailto:sirajeddineaissa@protonmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:sirajeddineaissa@pm.me" target="_blank" rel="noopener noreferrer">
     <img height="35" src="https://img.icons8.com/fluency/48/000000/mail.png" alt="PM Siraje"/>
 </a>
 
