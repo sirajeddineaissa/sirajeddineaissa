@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hey 👋, I'm [Siraje](https://sirajeddineaissa.live) !
+### Hey 👋, I'm Siraje !
 
 <a href="https://www.linkedin.com/in/sirajeddineaissa" target="_blank" rel="noopener noreferrer">
     <img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Siraje's LinkedIn"/>
@@ -18,19 +18,34 @@
 
 ``` yaml
 introduction:
-    name: Sirajeddine Aissa
+    name: Sirajeddine Aissa (Siraje for short)
+    technologies:
+    - Elixir
+    - TypeScript
+    - React
+    - Phoenix Framework
+    - Fly.io
+    - Docker
+    - GitHub Actions
+    - PostgreSQL
     interests:
     - Backend Engineering
-    - DevOps
-    - Data Engineering
+    - Distributed Systems Architecture
+    - Data Pipelines & Streaming
+    - Cloud Infrastructure & Automation
+    - Event-Driven Architecture (EDA)
+    - Domain-Centric Design & Modeling
+    - Data Privacy & Security
     - Frontend Engineering
     settings:
         dark_mode: true
-        age: 22
+        age: 23
         languages:
         - English
         - French
         - Arabic
+        - German (basic proficiency)
+
 ```
 <div align="center">
 </div>
